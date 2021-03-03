@@ -29,6 +29,6 @@ http://www.omdbapi.com/
 
 #Team Member:
 1. Manik Agarwal
-
+Clone it and let it flow.
 For any queries contact on manuagarwal1999@gmail.com. Happy Binge Watching !!
 
