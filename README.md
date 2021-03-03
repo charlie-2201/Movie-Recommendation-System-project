@@ -1,7 +1,7 @@
 #Gateway to the Quarantine Chill You Need ! We might not entertain you but can surely show you the Road...
 
 
-# three_unknowns_fullstack_20_online_1
+# Movie Recommendation System
 
 During this COVID-19 outbreak are you feeling low ? Do you want to binge on Movies but can't figure out what to watch ?
 Don't worry Guys , we have created 'La Película' for you . 
@@ -27,11 +27,8 @@ https://codeasylums-bootcamp.github.io/three_unknowns_fullstack_20_online_1/inde
 http://www.omdbapi.com/
 
 
-#Team Members :
-1. Akhil Kumar Tatipamula
-2. Abhishek Kumar
-3. K Venkatesh
-4. Manik Agarwal
+#Team Member:
+1. Manik Agarwal
 
 For any queries contact on kumarsingh14abhishek@gmail.com. Happy Binge Watching !!
 
