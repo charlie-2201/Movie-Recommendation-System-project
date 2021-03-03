@@ -32,8 +32,3 @@ http://www.omdbapi.com/
 
 For any queries contact on manuagarwal1999@gmail.com. Happy Binge Watching !!
 
-#How To Access the Website :
-
-<a href="https://www.youtube.com/watch?v=co8rm5V4itI&feature=youtu.befeature=player_embedded&v=co8rm5V4itI
-" target="_blank"><img src="https://www.clipartwiki.com/clipimg/detail/203-2038082_cinema-clipart-movie-maker-film-png-icon.png" 
-alt="How To Use " width="240" height="180" border="10" /></a>
