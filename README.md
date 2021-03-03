@@ -30,7 +30,7 @@ http://www.omdbapi.com/
 #Team Member:
 1. Manik Agarwal
 
-For any queries contact on kumarsingh14abhishek@gmail.com. Happy Binge Watching !!
+For any queries contact on manuagarwal1999@gmail.com. Happy Binge Watching !!
 
 #How To Access the Website :
 
